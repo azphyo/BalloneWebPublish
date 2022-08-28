@@ -26880,7 +26880,7 @@ aZe(a,b){var s=0,r=A.H(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g
 var $async$UQ=A.C(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 m=A.I(a,!1,t.h)
-l=A.ik("http://192.168.100.50:3001/"+b,0,null)
+l=A.ik("http://52.76.40.79:3001/"+b,0,null)
 s=7
 return A.u(A.aDd(l,m.a),$async$UQ)
 case 7:k=d
@@ -26917,7 +26917,7 @@ aZd(a,b){var s=0,r=A.H(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g
 var $async$vW=A.C(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 m=A.I(a,!1,t.h)
-l=A.ik("http://192.168.100.50:3002/"+b,0,null)
+l=A.ik("http://52.76.40.79:3002/"+b,0,null)
 s=7
 return A.u(A.aDd(l,m.a),$async$vW)
 case 7:k=d
@@ -26957,7 +26957,7 @@ s=p}while(true)switch(s){case 0:g="Loading Data"
 p=4
 m=A.I(a,!1,t.h)
 A.aKi(g)
-l=A.ik("http://192.168.100.50:3002/"+c,0,null)
+l=A.ik("http://52.76.40.79:3002/"+c,0,null)
 s=7
 return A.u(A.b40(l,b,m.a),$async$iV)
 case 7:k=e
@@ -27000,7 +27000,7 @@ s=p}while(true)switch(s){case 0:g="Loading Data"
 p=4
 m=A.I(a,!1,t.h)
 A.aKi(g)
-l=A.ik("http://192.168.100.50:3002/"+b,0,null)
+l=A.ik("http://52.76.40.79:3002/"+b,0,null)
 s=7
 return A.u(A.aDd(l,m.a),$async$r1)
 case 7:k=d
@@ -27040,7 +27040,7 @@ aZf(a,b){var s=0,r=A.H(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f
 var $async$ic=A.C(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 m=A.I(a,!1,t.h)
-l=A.ik("http://192.168.100.50:3002/"+b,0,null)
+l=A.ik("http://52.76.40.79:3002/"+b,0,null)
 s=7
 return A.u(A.aDd(l,m.a),$async$ic)
 case 7:k=d
@@ -46502,7 +46502,7 @@ else{s=A.e(a1)
 r=A.bt(new A.ap(500,500))
 q=A.bt(new A.ap(500,500))
 p=J.d(b.b,A.c(J.d(a.c,d)))
-s=A.K(e,A.fR(q,A.dC(150,"http://192.168.100.50:3001/"+A.c(p==null?e:J.d(p,"logo")),150)),B.j,e,e,new A.a6(s.dy,e,e,r,e,e,B.r),e,150,e,new A.r(0,0,0,0),new A.r(20,20,20,20),e,e,150)
+s=A.K(e,A.fR(q,A.dC(150,"http://52.76.40.793001/"+A.c(p==null?e:J.d(p,"logo")),150)),B.j,e,e,new A.a6(s.dy,e,e,r,e,e,B.r),e,150,e,new A.r(0,0,0,0),new A.r(20,20,20,20),e,e,150)
 r=A.k(e,20,e)
 q=A.aR(A.x(A.c(J.d(J.d(b.b,A.c(J.d(a.c,d))),"name")),e,e,e,A.T(e,e,e,e,e,e,e,e,e,e,e,25,e,B.t,e,e,!0,e,e,e,B.S,e,e,e,e),e,e),e,e)
 p=A.k(e,10,e)
@@ -46629,7 +46629,7 @@ $S:22}
 A.aue.prototype={
 $1(a){var s=this,r=null,q=J.d(s.b.b,a),p=s.c,o=s.d,n=A.e(o),m=J.a0(q),l=A.c(m.h(q,"id"))===p.b?A.e(o).at:A.e(o).dy,k=A.bt(new A.ap(5,5)),j=A.e(o).fr.a
 j=A.pE(r,r,r,5,r,r,r,r,B.W,r,new A.r(10,6.666666666666667,10,6.666666666666667),l,n.cx,new A.be(k,B.k),new A.a3(A.l(B.d.R(25.5),j>>>16&255,j>>>8&255,j&255),1,B.o),r,r,r,r)
-k=A.k(A.dC(r,"http://192.168.100.50:3001/"+A.c(m.h(q,"logo")),r),r,50)
+k=A.k(A.dC(r,"http://52.76.40.793001/"+A.c(m.h(q,"logo")),r),r,50)
 n=m.h(q,"name")
 n=A.x(n,r,r,r,A.T(r,r,A.c(m.h(q,"id"))===p.b?A.e(o).dy:A.e(o).R8.z.b,r,r,r,r,r,r,r,r,r,r,B.t,r,r,!0,r,r,r,B.S,r,r,r,r),r,r)
 l=m.h(q,"mm_name")
@@ -46657,7 +46657,7 @@ q=A.bt(new A.ap(5,5))
 p=A.bt(new A.ap(5,5))
 o=this.c
 n=J.d(l.b,o)
-i=A.K(m,A.fR(p,A.dC(25,"http://192.168.100.50:3001/"+A.c(n==null?m:J.d(n,"logo")),25)),B.j,m,m,new A.a6(i.dy,m,m,q,m,m,B.r),m,30,m,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),m,m,30)
+i=A.K(m,A.fR(p,A.dC(25,"http://52.76.40.793001/"+A.c(n==null?m:J.d(n,"logo")),25)),B.j,m,m,new A.a6(i.dy,m,m,q,m,m,B.r),m,30,m,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),m,m,30)
 q=A.k(m,m,10)
 o=J.d(l.b,o)
 p=A.B(A.x(A.c(o==null?m:J.d(o,"name")),m,m,m,A.T(m,m,A.e(b).dy,m,m,m,m,m,m,m,m,16,m,B.t,m,m,!0,m,m,m,m,m,m,m,m),m,m),1)
@@ -46795,7 +46795,7 @@ adB(a,b){var s=null,r=A.e(a).fr.a
 r=A.l(B.d.R(25.5),r>>>16&255,r>>>8&255,r&255)
 return A.K(s,A.e2(B.L,!0,s,A.dw(s,A.cQ(B.jy,A.e(a).at,s),s,new A.aff(),B.I,s),B.j,B.V,0,s,s,s,s,s,B.aK),B.j,s,s,new A.a6(s,s,new A.al(B.k,new A.a3(r,1,B.o),B.k,B.k),s,s,s,B.r),s,60,s,s,s,s,s,100)}}
 A.afg.prototype={
-$1(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b="English",a="http://192.168.100.50:3001/",a0="goal",a1="percent",a2=this.b,a3=A.e(a2),a4=A.e(a2),a5=B.d.R(25.5)
+$1(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b="English",a="http://52.76.40.793001/",a0="goal",a1="percent",a2=this.b,a3=A.e(a2),a4=A.e(a2),a5=B.d.R(25.5)
 a4=a4.fr.a
 a4=A.l(a5,a4>>>16&255,a4>>>8&255,a4&255)
 s=A.e(a2).fr.a
@@ -46904,7 +46904,7 @@ aeg(a,b){var s=null,r=A.e(a).fr.a
 r=A.l(B.d.R(25.5),r>>>16&255,r>>>8&255,r&255)
 return A.K(s,A.e2(B.L,!0,s,A.dw(s,A.cQ(B.jy,A.e(a).at,s),s,new A.agY(),B.I,s),B.j,B.V,0,s,s,s,s,s,B.aK),B.j,s,s,new A.a6(s,s,new A.al(B.k,new A.a3(r,1,B.o),B.k,B.k),s,s,s,B.r),s,60,s,s,s,s,s,100)}}
 A.agZ.prototype={
-$1(b1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0="English",a1="http://192.168.100.50:3001/",a2="goal",a3="percent",a4="=",a5="-",a6="1.00",a7=this.b,a8=A.e(a7),a9=A.e(a7),b0=B.d.R(25.5)
+$1(b1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0="English",a1="http://52.76.40.793001/",a2="goal",a3="percent",a4="=",a5="-",a6="1.00",a7=this.b,a8=A.e(a7),a9=A.e(a7),b0=B.d.R(25.5)
 a9=a9.fr.a
 a9=A.l(b0,a9>>>16&255,a9>>>8&255,a9&255)
 s=A.e(a7).fr.a
@@ -47466,7 +47466,7 @@ t(a,b){return A.X(J.fN(this.c,new A.ake(this,b),t.m).dg(0),B.h,B.i,B.f)},
 a5k(a,b){var s=null
 return A.K(s,A.e2(B.L,!0,s,A.dw(s,A.cQ(B.jy,A.e(a).at,s),s,new A.akd(),B.I,s),B.j,B.V,0,s,s,s,s,s,B.aK),B.j,s,s,s,s,60,s,s,s,s,s,100)}}
 A.ake.prototype={
-$1(a){var s,r,q,p,o,n,m,l,k,j,i=null,h="English",g="http://192.168.100.50:3001/",f=this.b,e=A.e(f),d=A.e(f),c=B.d.R(25.5)
+$1(a){var s,r,q,p,o,n,m,l,k,j,i=null,h="English",g="http://52.76.40.793001/",f=this.b,e=A.e(f),d=A.e(f),c=B.d.R(25.5)
 d=d.fr.a
 d=A.l(c,d>>>16&255,d>>>8&255,d&255)
 s=A.e(f).fr.a
@@ -49697,7 +49697,7 @@ q=A.e(b)
 p=A.bt(new A.ap(5,5))
 o=A.bt(new A.ap(5,5))
 n=i==null
-q=A.K(m,A.fR(o,A.dC(25,"http://192.168.100.50:3001/"+A.c(n?m:J.d(i,"logo")),25)),B.j,m,m,new A.a6(q.dy,m,m,p,m,m,B.r),m,30,m,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),m,m,30)
+q=A.K(m,A.fR(o,A.dC(25,"http://52.76.40.793001/"+A.c(n?m:J.d(i,"logo")),25)),B.j,m,m,new A.a6(q.dy,m,m,p,m,m,B.r),m,30,m,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),m,m,30)
 p=A.k(m,m,10)
 o=t.p
 return A.X(A.a([k,j,A.K(m,A.W(A.a([q,p,A.B(A.x(A.c(n?m:J.d(i,"name")),m,B.S,m,A.T(m,m,A.e(b).dy,m,m,m,m,m,m,m,m,16,m,B.t,m,m,!0,m,m,m,m,m,m,m,m),m,m),1)],o),B.h,B.i,B.f),B.j,r.at,m,m,m,m,m,m,new A.r(5,5,5,5),m,m,m)],o),B.h,B.i,B.f)}}
@@ -49803,7 +49803,7 @@ o=A.e(b)
 n=A.bt(new A.ap(5,5))
 m=J.a0(s)
 l=t.p
-m=A.k(A.X(A.a([A.K(k,A.fR(A.bt(new A.ap(5,5)),A.dC(k,"http://192.168.100.50:3001/"+A.c(m.h(s,"logo")),k)),B.j,k,k,new A.a6(o.dy,k,k,n,k,k,B.r),k,50,k,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),k,k,50),A.k(k,5,k),A.aR(A.x(A.c(m.h(s,"name")),k,B.S,k,k,k,k),k,k)],l),B.h,B.i,B.f),k,150)
+m=A.k(A.X(A.a([A.K(k,A.fR(A.bt(new A.ap(5,5)),A.dC(k,"http://52.76.40.793001/"+A.c(m.h(s,"logo")),k)),B.j,k,k,new A.a6(o.dy,k,k,n,k,k,B.r),k,50,k,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),k,k,50),A.k(k,5,k),A.aR(A.x(A.c(m.h(s,"name")),k,B.S,k,k,k,k),k,k)],l),B.h,B.i,B.f),k,150)
 n=A.e(b).fr.a
 return A.X(A.a([h,A.cr(new A.af(new A.r(2.5,10,2.5,10),new A.lQ(A.W(A.a([m,A.rQ(A.l(B.d.R(76.5),n>>>16&255,n>>>8&255,n&255),1,k),A.B(A.X(A.a([A.aR(A.x(j.f,k,k,k,A.T(k,k,k,k,k,k,k,k,k,k,k,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k),A.k(k,10,k),A.aR(A.x(A.c(r.h(0,"goal"))+"("+A.c(r.h(0,"percent"))+")"+A.c(r.h(0,"apo"))+" @ "+q,k,k,k,A.T(k,k,k,k,k,k,k,k,"English",k,k,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k)],l),B.h,B.w,B.f),1)],l),B.h,B.i,B.f),k),k),g.dy,k,k,k,new A.be(e,new A.a3(p,1,B.o)))],l),B.h,B.i,B.f)}}
 A.Lu.prototype={
@@ -49900,7 +49900,7 @@ l=t.p
 l=A.W(A.a([r,q,A.k(A.X(A.a([o,s,A.B(A.bJ(p.dy,new A.r(5,0,5,0),16,B.M,k,B.aS,new A.a6n(a,b),k,m,n,k),1)],l),B.bm,B.w,B.f),k,100)],l),B.h,B.i,B.f)
 s=l}return A.K(k,s,B.j,k,k,new A.a6(k,k,new A.al(B.k,new A.a3(i,1,B.o),B.k,B.k),k,k,k,B.r),k,60,k,k,k,k,k,200)}}
 A.a6o.prototype={
-$1(a){var s,r,q,p,o,n,m,l,k,j=null,i="http://192.168.100.50:3001/",h=this.a,g=this.b,f=A.e(g),e=A.e(g),d=B.d.R(25.5)
+$1(a){var s,r,q,p,o,n,m,l,k,j=null,i="http://52.76.40.793001/",h=this.a,g=this.b,f=A.e(g),e=A.e(g),d=B.d.R(25.5)
 e=e.fr.a
 e=A.l(d,e>>>16&255,e>>>8&255,e&255)
 s=A.e(g).fr.a
@@ -49945,7 +49945,7 @@ $0(){A.I(this.a,!1,t.g).fT(this.b,"UNDER")},
 $S:0}
 A.pi.prototype={
 t(a,b){var s=null,r=A.e(b),q=A.bt(new A.ap(5,5)),p=this.c,o=J.a0(p)
-q=A.K(s,A.fR(A.bt(new A.ap(5,5)),A.dC(s,"http://192.168.100.50:3001/"+A.c(o.h(p,"logo")),s)),B.j,s,s,new A.a6(r.dy,s,s,q,s,s,B.r),s,75,s,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),s,s,75)
+q=A.K(s,A.fR(A.bt(new A.ap(5,5)),A.dC(s,"http://52.76.40.793001/"+A.c(o.h(p,"logo")),s)),B.j,s,s,new A.a6(r.dy,s,s,q,s,s,B.r),s,75,s,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),s,s,75)
 r=A.k(s,5,s)
 p=A.c(o.h(p,"name"))
 return A.X(A.a([q,r,A.aR(A.x(p,s,B.S,s,A.T(s,s,this.d?B.H:A.e(b).R8.z.b,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s)],t.p),B.h,B.i,B.f)}}
@@ -50054,7 +50054,7 @@ q=A.e(b)
 p=A.bt(new A.ap(5,5))
 o=A.bt(new A.ap(5,5))
 n=i==null
-q=A.K(m,A.fR(o,A.dC(25,"http://192.168.100.50:3001/"+A.c(n?m:J.d(i,"logo")),25)),B.j,m,m,new A.a6(q.dy,m,m,p,m,m,B.r),m,30,m,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),m,m,30)
+q=A.K(m,A.fR(o,A.dC(25,"http://52.76.40.793001/"+A.c(n?m:J.d(i,"logo")),25)),B.j,m,m,new A.a6(q.dy,m,m,p,m,m,B.r),m,30,m,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),m,m,30)
 p=A.k(m,m,10)
 o=t.p
 return A.X(A.a([k,j,A.K(m,A.W(A.a([q,p,A.B(A.x(A.c(n?m:J.d(i,"name")),m,B.S,m,A.T(m,m,A.e(b).dy,m,m,m,m,m,m,m,m,16,m,B.t,m,m,!0,m,m,m,m,m,m,m,m),m,m),1)],o),B.h,B.i,B.f),B.j,r.at,m,m,m,m,m,m,new A.r(5,5,5,5),m,m,m)],o),B.h,B.i,B.f)}}
@@ -50073,7 +50073,7 @@ o=A.e(b)
 n=A.bt(new A.ap(5,5))
 m=J.a0(s)
 l=t.p
-m=A.k(A.X(A.a([A.K(k,A.fR(A.bt(new A.ap(5,5)),A.dC(k,"http://192.168.100.50:3001/"+A.c(m.h(s,"logo")),k)),B.j,k,k,new A.a6(o.dy,k,k,n,k,k,B.r),k,50,k,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),k,k,50),A.k(k,5,k),A.aR(A.x(A.c(m.h(s,"name")),k,B.S,k,k,k,k),k,k)],l),B.h,B.i,B.f),k,150)
+m=A.k(A.X(A.a([A.K(k,A.fR(A.bt(new A.ap(5,5)),A.dC(k,"http://52.76.40.793001/"+A.c(m.h(s,"logo")),k)),B.j,k,k,new A.a6(o.dy,k,k,n,k,k,B.r),k,50,k,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),k,k,50),A.k(k,5,k),A.aR(A.x(A.c(m.h(s,"name")),k,B.S,k,k,k,k),k,k)],l),B.h,B.i,B.f),k,150)
 n=A.e(b).fr.a
 return A.X(A.a([h,A.cr(new A.af(new A.r(2.5,10,2.5,10),new A.lQ(A.W(A.a([m,A.rQ(A.l(B.d.R(76.5),n>>>16&255,n>>>8&255,n&255),1,k),A.B(A.X(A.a([A.aR(A.x(j.f,k,k,k,A.T(k,k,k,k,k,k,k,k,k,k,k,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k),A.k(k,10,k),A.aR(A.x(A.c(r.h(0,"goal"))+"("+A.c(r.h(0,"percent"))+")"+A.c(r.h(0,"apo"))+" @ "+q,k,k,k,A.T(k,k,k,k,k,k,k,k,"English",k,k,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,k)],l),B.h,B.w,B.f),1)],l),B.h,B.i,B.f),k),k),g.dy,k,k,k,new A.be(e,new A.a3(p,1,B.o)))],l),B.h,B.i,B.f)}}
 A.WL.prototype={
@@ -50167,7 +50167,7 @@ l=t.p
 l=A.W(A.a([r,q,A.k(A.X(A.a([o,s,A.B(A.bJ(p.dy,new A.r(5,0,5,0),16,B.M,k,B.aS,new A.aoN(a,b),k,m,n,k),1)],l),B.bm,B.w,B.f),k,100)],l),B.h,B.i,B.f)
 s=l}return A.K(k,s,B.j,k,k,new A.a6(k,k,new A.al(B.k,new A.a3(i,1,B.o),B.k,B.k),k,k,k,B.r),k,60,k,k,k,k,k,200)}}
 A.aoO.prototype={
-$1(a){var s,r,q,p,o,n,m,l,k,j=null,i="http://192.168.100.50:3001/",h=this.a,g=this.b,f=A.e(g),e=A.e(g),d=B.d.R(25.5)
+$1(a){var s,r,q,p,o,n,m,l,k,j=null,i="http://52.76.40.793001/",h=this.a,g=this.b,f=A.e(g),e=A.e(g),d=B.d.R(25.5)
 e=e.fr.a
 e=A.l(d,e>>>16&255,e>>>8&255,e&255)
 s=A.e(g).fr.a
@@ -50323,7 +50323,7 @@ A.Sy.prototype={
 t(a,b){var s=A.I(b,!0,t.F).d,r=A.aB(s).i("aV<1,i>")
 return A.X(A.az(new A.aV(s,new A.agh(this,b),r),!0,r.i("bG.E")),B.h,B.i,B.f)},
 a5x(a,b,c){var s=null,r=J.d(A.I(a,!0,t.P).b,""+b.a.b.c),q=A.e(a),p=A.e(a),o=A.bt(new A.ap(5,5)),n=A.bt(new A.ap(5,5)),m=r==null
-p=A.K(s,A.fR(n,A.dC(25,"http://192.168.100.50:3001/"+A.c(m?s:J.d(r,"logo")),25)),B.j,s,s,new A.a6(p.dy,s,s,o,s,s,B.r),s,30,s,s,new A.r(2.5,2.5,2.5,2.5),s,s,30)
+p=A.K(s,A.fR(n,A.dC(25,"http://52.76.40.793001/"+A.c(m?s:J.d(r,"logo")),25)),B.j,s,s,new A.a6(p.dy,s,s,o,s,s,B.r),s,30,s,s,new A.r(2.5,2.5,2.5,2.5),s,s,30)
 o=A.k(s,s,10)
 return A.K(s,A.W(A.a([p,o,A.B(A.x(A.c(m?s:J.d(r,"name")),s,B.S,s,A.T(s,s,A.e(a).dy,s,s,s,s,s,s,s,s,14,s,B.t,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.K(B.y,A.e2(B.L,!0,s,A.dw(s,A.cQ(B.jw,A.e(a).dy,20),s,new A.agg(a,b),new A.r(0,0,0,0),s),B.j,B.V,0,s,s,s,s,s,B.aK),B.j,s,s,s,s,30,s,s,s,s,s,30),A.k(s,s,5)],t.p),B.h,B.i,B.f),B.j,s,s,new A.a6(q.at,s,s,new A.cz(new A.ap(5,5),new A.ap(5,5),B.O,B.O),s,s,B.r),s,s,s,s,new A.r(5,5,5,5),s,s,s)}}
 A.agh.prototype={
@@ -50341,7 +50341,7 @@ k=A.e(j)
 o=A.bt(new A.ap(5,5))
 n=J.a0(s)
 m=t.p
-n=A.k(A.X(A.a([A.K(l,A.fR(A.bt(new A.ap(5,5)),A.dC(l,"http://192.168.100.50:3001/"+A.c(n.h(s,"logo")),l)),B.j,l,l,new A.a6(k.dy,l,l,o,l,l,B.r),l,50,l,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),l,l,50),A.k(l,5,l),A.aR(A.x(A.c(n.h(s,"name")),l,B.S,l,l,l,l),l,l)],m),B.h,B.i,B.f),l,150)
+n=A.k(A.X(A.a([A.K(l,A.fR(A.bt(new A.ap(5,5)),A.dC(l,"http://52.76.40.793001/"+A.c(n.h(s,"logo")),l)),B.j,l,l,new A.a6(k.dy,l,l,o,l,l,B.r),l,50,l,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),l,l,50),A.k(l,5,l),A.aR(A.x(A.c(n.h(s,"name")),l,B.S,l,l,l,l),l,l)],m),B.h,B.i,B.f),l,150)
 j=A.e(j).fr.a
 return A.cr(A.X(A.a([i,new A.af(new A.r(2.5,10,2.5,10),new A.lQ(A.W(A.a([n,A.rQ(A.l(B.d.R(76.5),j>>>16&255,j>>>8&255,j&255),1,l),A.B(A.X(A.a([A.aR(A.x(a.b,l,l,l,A.T(l,l,l,l,l,l,l,l,l,l,l,l,l,B.t,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,l),A.k(l,10,l),A.aR(A.x(A.c(r.h(0,"goal"))+"("+A.c(r.h(0,"percent"))+")"+A.c(r.h(0,"apo"))+" @ "+B.d.N(A.cv(q)+1,2),l,l,l,A.T(l,l,l,l,l,l,l,l,"English",l,l,l,l,B.t,l,l,!0,l,l,l,l,l,l,l,l),l,l),l,l)],m),B.h,B.w,B.f),1)],m),B.h,B.i,B.f),l),l)],m),B.h,B.i,B.f),g.dy,l,l,l,new A.be(f,new A.a3(p,1,B.o)))},
 $S:212}
@@ -50422,7 +50422,7 @@ q=t.p
 q=A.W(A.a([s,r,A.k(A.X(A.a([o,p,A.B(A.bJ(m,new A.r(5,0,5,0),16,B.M,l,B.aS,new A.agq(a,b),l,i,n,l),1)],q),B.bm,B.w,B.f),l,100)],q),B.h,B.i,B.f)
 i=q}return A.K(l,i,B.j,l,l,new A.a6(l,l,new A.al(B.k,new A.a3(j,1,B.o),B.k,B.k),l,l,l,B.r),l,60,l,l,l,l,l,200)}}
 A.agr.prototype={
-$1(a){var s,r,q,p,o,n,m,l,k,j=null,i="http://192.168.100.50:3001/",h=this.a,g=this.b,f=A.e(g),e=A.e(g),d=B.d.R(25.5)
+$1(a){var s,r,q,p,o,n,m,l,k,j=null,i="http://52.76.40.793001/",h=this.a,g=this.b,f=A.e(g),e=A.e(g),d=B.d.R(25.5)
 e=e.fr.a
 e=A.l(d,e>>>16&255,e>>>8&255,e&255)
 s=A.e(g).fr.a
@@ -50644,7 +50644,7 @@ ai6(){var s,r
 for(s=J.aK(this.c.w),r=1;s.u();)r*=J.d(J.d(J.d(s.gF(s),"choose_team"),"status"),"win_percent")
 return r}}
 A.Wq.prototype={
-t(b2,b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e="match",d=null,c="time",b="English",a="http://192.168.100.50:3001/",a0="name",a1="status",a2="score",a3="side",a4="odds",a5=this.c,a6=J.a0(a5),a7=a6.h(a5,e),a8=a6.h(a5,"choose_team"),a9=A.e(b3),b0=A.e(b3).fr.a,b1=new A.a3(A.l(51,b0>>>16&255,b0>>>8&255,b0&255),1,B.o)
+t(b2,b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e="match",d=null,c="time",b="English",a="http://52.76.40.793001/",a0="name",a1="status",a2="score",a3="side",a4="odds",a5=this.c,a6=J.a0(a5),a7=a6.h(a5,e),a8=a6.h(a5,"choose_team"),a9=A.e(b3),b0=A.e(b3).fr.a,b1=new A.a3(A.l(51,b0>>>16&255,b0>>>8&255,b0&255),1,B.o)
 b0=A.e(b3)
 s=B.d.R(25.5)
 b0=b0.fr.a
@@ -50756,7 +50756,7 @@ o=A.bt(new A.ap(5,5))
 n=A.bt(new A.ap(5,5))
 m=this.c
 l=J.d(j.b,m)
-r=A.K(k,A.fR(n,A.dC(25,"http://192.168.100.50:3001/"+A.c(l==null?k:J.d(l,"logo")),25)),B.j,k,k,new A.a6(r.dy,k,k,o,k,k,B.r),k,30,k,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),k,k,30)
+r=A.K(k,A.fR(n,A.dC(25,"http://52.76.40.793001/"+A.c(l==null?k:J.d(l,"logo")),25)),B.j,k,k,new A.a6(r.dy,k,k,o,k,k,B.r),k,30,k,new A.r(0,0,0,0),new A.r(2.5,2.5,2.5,2.5),k,k,30)
 o=A.k(k,k,10)
 m=J.d(j.b,m)
 n=A.B(A.x(A.c(m==null?k:J.d(m,"name")),k,k,k,A.T(k,k,A.e(b).dy,k,k,k,k,k,k,k,k,16,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),1)
